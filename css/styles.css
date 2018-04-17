@@ -1,0 +1,25 @@
+h1, h2{
+  color: #f7325e;
+  text-align: center;
+}
+p{
+  color:#7dc410;
+  font-family: fantasy;
+
+}
+img{
+  display: block;
+  margin: 0 auto;
+}
+body{
+  background-color:#729695;
+}
+.popular{
+  font-weight: bold;
+  font-style: italic;
+  color: #cc5d47;
+}
+.tropical{
+  color: #70c442;
+  font-weight: bold;
+}
